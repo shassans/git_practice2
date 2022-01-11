@@ -1,6 +1,9 @@
 package us100;
 
 public class TestCase001 {
+    public static void main(String[] args) {
+        System.out.println("Hello something");
+    }
 }
 /*
 3. create a package under `src` folder called `us100` and create a class called `TestCase001`
